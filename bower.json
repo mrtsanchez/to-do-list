@@ -1,0 +1,26 @@
+{
+  "name": "todo list angular js",
+  "description": "practice angular with a to do list, epicodus",
+  "main": "",
+  "authors": [
+    "Marta Sanchez <sanchez.marta@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "todo",
+    "list",
+    "angular",
+    "epicodus"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
